@@ -6,6 +6,13 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 import org.springframework.cloud.sleuth.sampler.AlwaysSampler;
 import org.springframework.context.annotation.Bean;
 
+/**
+ * 
+ * @author Sandhya
+ * Currency Exchange Service Application
+ *
+ */
+
 @SpringBootApplication
 @EnableDiscoveryClient
 public class CurrencyExchangeService1Application {

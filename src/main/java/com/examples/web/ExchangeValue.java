@@ -8,6 +8,14 @@ import javax.persistence.Id;
 
 import javax.persistence.Column;
 
+/**
+ * 
+ * @author Sandhya
+ * Exchange value of Currency Exchange Service
+ *
+ */
+
+
 @Entity
 public class ExchangeValue {
     
